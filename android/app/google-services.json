@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337068953898",
+    "firebase_url": "https://retete-blanao.firebaseio.com",
+    "project_id": "retete-blanao",
+    "storage_bucket": "retete-blanao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337068953898:android:5ecec7ecff9cc8b90f8e53",
+        "android_client_info": {
+          "package_name": "com.adriandrozman.reteteblanao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337068953898-pfonaakuktm1sg9pbmfnfhvqr8ofjj28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adriandrozman.reteteblanao",
+            "certificate_hash": "c25819b3d52782c3c192148646fddd8ac7ff9e85"
+          }
+        },
+        {
+          "client_id": "337068953898-dref63ggcortnm6nib06atf80ecrqd0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6n929otXy0wNMz9ZQwd6-bgMkoLTfS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337068953898-dref63ggcortnm6nib06atf80ecrqd0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
