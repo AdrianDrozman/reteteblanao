@@ -13,6 +13,7 @@ import 'upload.dart';
 
 final GoogleSignIn googleSignIn = GoogleSignIn();
 final usersRef = Firestore.instance.collection('users');
+final recipesRef = Firestore.instance.collection('recipes');
 final DateTime timestamps = DateTime.now();
 User currentUser;
 
